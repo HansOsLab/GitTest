@@ -3,8 +3,7 @@
 
 int main(void)
 {
-//ksdfkfdg;klfjldkg
-  //;lkmdfgpliokjfsdglkmjfdgsv
+int a=100;
 printHello();
 printBye();
 return 0;
